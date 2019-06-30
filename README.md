@@ -1,5 +1,5 @@
 # Do you want to see my social-network?
-# <a href="http://uladzimir-yeudakimovich.ml/social-network/">Click there ;)</a> 
+# <a href="http://uladzimir-yeudakimovich.github.io/social-network/">Click there ;)</a> 
 # Задание:
 
 Сделать страничку со слайдером, имеющую следующий функционал:
